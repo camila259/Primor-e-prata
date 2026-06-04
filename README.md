@@ -1,4 +1,5 @@
-# Primor e Prata
-Projeto desenvolvido originalmente em 2024 ultilizando HTML, CSS, PHP E MySQL.
-Atualmente estou revisitando o projeto para aplicar novos conhecimentos e melhorar sua estrutura.
-   🚧 work in progress
+# Primor e Prata 💍
+Projeto Full Stack básico desenvolvido originalmente em 2024 ultilizando HTML, CSS, PHP E MySQL.
+Inclui páginas de apresentação, cadastro de usuários e processamento de dados com banco.
+Este repositório representa uma versão inicial do projeto, atualmente em processo de melhoria contínua.
+   🚧 work in progress 🚧
