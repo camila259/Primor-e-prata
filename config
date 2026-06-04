@@ -1,0 +1,10 @@
+<?php
+$servername = "localhost"; 
+$database   = "projeto site"; 
+$username   = "root"; 
+$password   = "root"; 
+$port       = "8889"; 
+
+
+$conexao = mysqli_connect($servername, $username, $password, $database, $port);
+?>
